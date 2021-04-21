@@ -49,6 +49,28 @@ From “what is research computing”
 				- output from running jobs, large files/datasets, share files
 				- no long term storage
 
+	Job Submission
+		running jobs
+			jobs are scripted packages of work for the cluster to perform
+			jobs have a job number
+			interactive jobs: work interactively at the cl of a compute node
+			batch jobs: submit job scripts which will be executed when resources are available
+				create or modify a script containing info about the job
+				submit the job file to a queue
+
+		On Super Computers, jobs are scheduled rather than just run instantly at the cl
+			shared system
+			jobs are put in a queue until resources are available
+			software that will distribute the jobs 
+				simple linux utility for resources management(SLURM)
+				keeps track of what nodes are available/busy, queued, running 
+				tells the resource manager where to run which job on the available resources
+					
+				useful slurm commands
+					sbatch: submit a batch script to slum
+
+
+
 
 				
 		
