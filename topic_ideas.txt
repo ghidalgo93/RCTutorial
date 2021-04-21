@@ -1,0 +1,22 @@
+Prompt
+Tutorial (25-30 minutes): Please prepare a 10-minute training on a topic of your choice.  This training should be geared toward beginner level students with the idea of teaching them some aspect of working with an HPC system.  The goal will be to demonstrate your ability to effectively communicate beginner level topics to an end user with little-to-no HPC experience.  Please also be ready questions following your tutorial asked by our staff as if they were users in the room.
+
+
+Topic ideas:
+
+From “what is research computing”
+
+	what is HPC
+		Maybe too vague
+		Differences between summit (super computing work) and storage
+
+	how RC stores data
+		Could be a good way to highlight visual learning
+		Draw out nodes
+		Talk about backups and persistence (talk about quelling frustrations if users know how their data will be kept and when it will not)
+
+	high speed data transfer
+		maybe too nuanced    
+
+	How to access RC resources - ie GETTING THERE
+
